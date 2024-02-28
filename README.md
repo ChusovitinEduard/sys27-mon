@@ -55,3 +55,24 @@
 ![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab2_mon.PNG)
 ![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zabb_log.PNG)
 
+```git clone https://github.com/ChusovitinEduard/sys27-mon```
+
+```cd sys27-mon```
+
+```vi README.md```
+
+```git add README.md```
+
+```git commit -m "task1 git commands"```
+
+```git push origin```
+
+```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/hosts.PNG)```
+
+```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab1_mon.PNG)```
+
+```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zab2_mon.PNG)```
+
+```![alt text](https://github.com/ChusovitinEduard/sys27-mon/blob/main/zabb_log.PNG)```
+
+
